@@ -1,0 +1,20 @@
+{
+  "name": "jobber-frontend",
+  "version": "1.0.0",
+  "description": "This is the project's root directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aspiring-Developers/Jobber-Frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aspiring-Developers/Jobber-Frontend/issues"
+  },
+  "homepage": "https://github.com/Aspiring-Developers/Jobber-Frontend#readme"
+}
